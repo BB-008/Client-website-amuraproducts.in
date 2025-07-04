@@ -1,4 +1,4 @@
-# Amura Products – Client Website Built with Wix
+![Screenshot 2025-07-04 122618](https://github.com/user-attachments/assets/e6f8f007-213d-4445-bf9d-f6f0af0be9fd)# Amura Products – Client Website Built with Wix
 
 This is a professional website I designed and developed for a client using [Wix](https://www.wix.com/). It includes custom layout design, payment integration, backend logic using Velo, and dynamic data management through Wix Content Manager.
 
@@ -31,8 +31,7 @@ This is a professional website I designed and developed for a client using [Wix]
 
 ## 📷 Preview
 
-hot - Homepage](https://github.com/user-attachments/assets/644629f2-c0a9-49c0-b1aa-032a877cbd8e)
-
+![Screenshot 2025-07-04 122618](https://github.com/user-attachments/assets/38f6f8c9-30c4-465c-9bd7-7a43d20a85d5)
 ---
 
 ## 🧑‍💻 My Contributions
