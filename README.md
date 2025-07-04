@@ -31,7 +31,7 @@ This is a professional website I designed and developed for a client using [Wix]
 
 ## 📷 Preview
 
-![Screenshot - Homepage](https://github.com/user-attachments/assets/644629f2-c0a9-49c0-b1aa-032a877cbd8e)
+hot - Homepage](https://github.com/user-attachments/assets/644629f2-c0a9-49c0-b1aa-032a877cbd8e)
 
 ---
 
